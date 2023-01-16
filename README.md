@@ -50,15 +50,27 @@ The ‘Home’ page consists of 5 sections:
 ### Hire:
 This interface allow user to insert Start vehicle (Km) reading, end reading, vehicle type, vehicle brand, rented date, pickup place and dropped place. The total charge and displacement will be calculated the system and presented when clicking calculate button. 
 
+![image](https://github.com/kaveesh222/Rent-a-car-service-managment-system/blob/main/Ayubo/images/04.png)
+
 ### Short renting:
 The short renting interface allow user to insert, customer Fulname, NIC, Email, Rented date, Telephone number, Start km reading, vehicle type and brand. So the calculation part of this interface is located in the return vehicle inteface and it will be connected through the NIC as PK. 
 
+![image](https://github.com/kaveesh222/Rent-a-car-service-managment-system/blob/main/Ayubo/images/05.png)
+
 ### Long tour:
 The long renting interface allow user to insert, customer Fulname, NIC, Email, Rented date, Telephone number, vehicle type and brand. So the calculation part of this interface is located in the return vehicle inteface and it will be connected through the NIC as PK. 
+
+![image](https://github.com/kaveesh222/Rent-a-car-service-managment-system/blob/main/Ayubo/images/06.png)
 
 ### Return vehicle
 this is the major calculation interface in the system. This interface is also contained different calculations for both long rent and short rent calculations. When the user need to select the tour type first and search the customer NIC in the related search text box. If the customer has taken a vehicle for rent it will be presented all the necassary informationn about the customer and journey. then user can be calculate the total cost that user should pay by inserting required details such as return date for long tours as well as the end kilometer reading for short tour. Any body cannot make changes of the data in this interface through updating. 
 In the Long tour, the calculation is automatically done as days, months and weeks for customer convenience. 
 
+![image](https://github.com/kaveesh222/Rent-a-car-service-managment-system/blob/main/Ayubo/images/07.png)
+
 ### Login interface
 the login interface is the security barrier in this system. So user can enter given username and password for login to the system. Then the system will automatically directed the user to the home interface. `username`: abc, `password`: 123
+
+![image](https://github.com/kaveesh222/Rent-a-car-service-managment-system/blob/main/Ayubo/images/02.png)
+
+
